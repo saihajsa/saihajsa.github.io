@@ -3,25 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Boba Love</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f7f7f7;
-            color: #333;
-        }
-        h1 {
-            color: #ff4081;
-        }
-        img {
-            max-width: 300px;
-            border-radius: 15px;
-        }
-        .content {
-            margin: 20px;
-        }
-    </style>
+
 </head>
 <body>
     <h1>I LOVE BOBA AND CODES!</h1>
